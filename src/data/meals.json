@@ -1,0 +1,70 @@
+{
+  "breakfast": {
+    "quick": {
+      "vegetarian": ["Oatmeal with fruits - Mix oats with milk, add banana and berries", "Toast with avocado - Mash avocado on whole grain toast"],
+      "vegan": ["Smoothie bowl - Blend banana, berries, plant milk, top with granola", "Chia pudding - Mix chia seeds with almond milk overnight"],
+      "no_restrictions": ["Scrambled eggs - Beat eggs, cook in pan with butter", "Yogurt parfait - Layer yogurt, granola, and fresh fruits"]
+    },
+    "medium": {
+      "vegetarian": ["Pancakes - Mix flour, eggs, milk, cook on griddle", "French toast - Dip bread in egg mixture, cook until golden"],
+      "vegan": ["Vegan pancakes - Use plant milk and flax eggs", "Overnight oats - Combine oats, plant milk, fruits"],
+      "no_restrictions": ["Breakfast burrito - Scramble eggs with cheese in tortilla", "Bacon and eggs - Fry bacon, cook eggs sunny side up"]
+    },
+    "long": {
+      "vegetarian": ["Vegetable omelet - Whisk eggs, add peppers, onions, cheese", "Breakfast casserole - Layer bread, eggs, cheese, bake"],
+      "vegan": ["Tofu scramble - Crumble tofu with turmeric and vegetables", "Vegan breakfast bowl - Quinoa, roasted vegetables, tahini"],
+      "no_restrictions": ["Full breakfast - Eggs, bacon, sausage, toast, hash browns", "Breakfast sandwich - English muffin, egg, cheese, meat"]
+    }
+  },
+  "lunch": {
+    "quick": {
+      "vegetarian": ["Caprese sandwich - Mozzarella, tomato, basil on bread", "Hummus wrap - Spread hummus, add vegetables in tortilla"],
+      "vegan": ["PB&J sandwich - Peanut butter and jam on bread", "Veggie wrap - Hummus, cucumber, tomato, lettuce in tortilla"],
+      "no_restrictions": ["Turkey sandwich - Sliced turkey, cheese, lettuce on bread", "Tuna salad - Mix canned tuna with mayo, serve on crackers"]
+    },
+    "medium": {
+      "vegetarian": ["Grilled cheese and soup - Cheese sandwich with tomato soup", "Pasta salad - Cooked pasta with vegetables and dressing"],
+      "vegan": ["Buddha bowl - Quinoa, roasted vegetables, tahini dressing", "Lentil soup - Cook lentils with vegetables and spices"],
+      "no_restrictions": ["Chicken salad - Grilled chicken over mixed greens", "Quesadilla - Cheese and chicken in tortilla, grilled"]
+    },
+    "long": {
+      "vegetarian": ["Vegetable stir-fry - Sauté mixed vegetables with rice", "Stuffed bell peppers - Fill peppers with rice and cheese"],
+      "vegan": ["Chickpea curry - Simmer chickpeas in coconut curry sauce", "Vegetable pasta - Pasta with roasted seasonal vegetables"],
+      "no_restrictions": ["Chicken pasta - Grilled chicken with creamy pasta sauce", "Beef stir-fry - Sliced beef with vegetables over rice"]
+    }
+  },
+  "dinner": {
+    "quick": {
+      "vegetarian": ["Margherita pizza - Cheese pizza with fresh basil", "Egg fried rice - Scramble eggs with leftover rice"],
+      "vegan": ["Spaghetti aglio olio - Pasta with garlic and olive oil", "Vegetable fried rice - Rice with mixed vegetables"],
+      "no_restrictions": ["Grilled chicken breast - Season and grill, serve with vegetables", "Fish tacos - Pan-seared fish in tortillas with slaw"]
+    },
+    "medium": {
+      "vegetarian": ["Vegetable curry - Mixed vegetables in curry sauce with rice", "Mushroom risotto - Creamy rice with sautéed mushrooms"],
+      "vegan": ["Lentil dal - Spiced lentils served over rice", "Vegetable chili - Beans and vegetables in tomato base"],
+      "no_restrictions": ["Chicken curry - Tender chicken in curry sauce", "Pork chops - Pan-seared with roasted vegetables"]
+    },
+    "long": {
+      "vegetarian": ["Eggplant parmesan - Breaded eggplant with marinara and cheese", "Vegetable lasagna - Layered pasta with vegetables and cheese"],
+      "vegan": ["Stuffed portobello mushrooms - Filled with quinoa and vegetables", "Ratatouille - Slow-cooked Mediterranean vegetables"],
+      "no_restrictions": ["Beef roast - Slow-cooked with potatoes and carrots", "Salmon with rice - Baked salmon with seasoned rice pilaf"]
+    }
+  },
+  "snack": {
+    "quick": {
+      "vegetarian": ["Apple with peanut butter - Slice apple, dip in peanut butter", "Cheese and crackers - Assorted cheese with whole grain crackers"],
+      "vegan": ["Mixed nuts - Handful of almonds, walnuts, cashews", "Fruit smoothie - Blend banana, berries, plant milk"],
+      "no_restrictions": ["Greek yogurt with honey - Plain yogurt drizzled with honey", "Hard-boiled egg - Boiled egg with salt and pepper"]
+    },
+    "medium": {
+      "vegetarian": ["Veggie chips with dip - Baked vegetable chips with hummus", "Smoothie bowl - Thick smoothie topped with granola"],
+      "vegan": ["Energy balls - Mix dates, nuts, cocoa powder", "Avocado toast - Mashed avocado on whole grain bread"],
+      "no_restrictions": ["Protein shake - Whey protein with milk and banana", "Turkey roll-ups - Sliced turkey with cheese"]
+    },
+    "long": {
+      "vegetarian": ["Homemade granola - Oats, nuts, honey baked until crispy", "Stuffed dates - Dates filled with cream cheese and nuts"],
+      "vegan": ["Homemade trail mix - Mix nuts, seeds, dried fruits", "Chia pudding parfait - Layered chia pudding with fruits"],
+      "no_restrictions": ["Deviled eggs - Hard-boiled eggs with seasoned yolk filling", "Mini meatballs - Small meatballs with dipping sauce"]
+    }
+  }
+}
